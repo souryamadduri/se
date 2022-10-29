@@ -1,0 +1,12 @@
+UserStories: 
+customer:  
+     1) As a customer,I want to have a SB account in the same bank,so that i can get DMT account 
+     2)As a customer,I want to maintain the adequate account in SB account to buy shares, 
+     so that the required amount is to blocked for buying shares from market 
+     3)As a customer,I want to maintain balance of shares in DMAT account that can identify the shares that need to be sold in market. 
+ Issues: 
+    Criteria should be maintained to buying or selling of shares 
+    The constant raise and flow of share prices. 
+    The transaction of amount with share prices mines commission 
+ Milestones:  
+      Getting a amount,Buying the shares,selling the shares,transferring of required amount plus comission to bank account
