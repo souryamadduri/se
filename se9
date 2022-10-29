@@ -1,0 +1,8 @@
+Online Shopping and Recharge:
+User Stories:
+Online Customer:
+As a customer I want to give my username,password,name,address and phone no, so that I can perform a transaction and recharge.
+Issues:
+The customer who came as a guest cannot look into his/her transaction again.
+Milestone:
+Completing the transaction and registration.
