@@ -1,0 +1,16 @@
+User stories:  
+      central govt: As a General govt, I want to analyze pollution from land transportation vehicles  
+so that they would help in issuing pollution certificates. 
+ 
+Applications : 
+          As an Application builder, I want to know the builder details of each and every vehicle in the state  
+so that I could build an application. 
+ 
+Issues : 
+           people have one or more vehicles from different companies.  
+There companies hacve diferent prices for difernet vechiles. so it is difficult to categorize. 
+ 
+Milestone: 
+          creating an application that provides information about the same. fixing certain ranges at prices of each type for the vehicle.  
+ 
+Reading the details of each and every vehicle
